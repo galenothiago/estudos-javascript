@@ -6,4 +6,4 @@
 
      - [x] formas de comentarios
      - [x] var, let e const
-     - [ ] tipagem
+     - [ ] tipagem (fracamente ou fortemente)
