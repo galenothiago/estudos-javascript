@@ -4,6 +4,6 @@
 
 * **Fundamentos da linguagem**
 
-      - [x] formas de comentarios
-      - [x] var, let e const
-      - [ ] tipagem
+     - [x] formas de comentarios
+     - [x] var, let e const
+     - [ ] tipagem
